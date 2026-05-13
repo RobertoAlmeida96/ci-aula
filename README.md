@@ -1,0 +1,1 @@
+[![.github/workflows/linha-de-monatagem.yml](https://github.com/RobertoAlmeida96/ci-aula/actions/workflows/linha-de-monatagem.yml/badge.svg)](https://github.com/RobertoAlmeida96/ci-aula/actions/workflows/linha-de-monatagem.yml)
